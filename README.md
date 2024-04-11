@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, I'm Connor!
+
+I love to use data to answer difficult questions across a variety of fields, from biology to business. I am especially passionate about tackling problems that have a geospatial or genomic component, leveraging my experience with geospatial statistics, bioinformatics, and familiarity with earth observation data. 
 
 <!--
 **connor-french/connor-french** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
