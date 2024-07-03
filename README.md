@@ -27,6 +27,7 @@ I’m passionate about data science, photography, music, and my dog Buckley!
     <td>roleShiny</td>
     <td> 
       <a href="https://github.com/role-model/roleShiny">Code</a> <br>
+      <a href="https://role-model.github.io/">Website</a>
     </td>
   </tr>
   <tr>
@@ -38,16 +39,16 @@ I’m passionate about data science, photography, music, and my dog Buckley!
     </td>
   </tr>
   <tr>
-    <td>Global distribution of insect mitochondrial genetic diversity</td> <br>
+    <td>Global distribution of insect mitochondrial genetic diversity</td>
     <td> 
-      <a href="https://github.com/connor-french/global-insect-macrogenetics">Code</a> 
+      <a href="https://github.com/connor-french/global-insect-macrogenetics">Code</a> <br>
       <a href="https://www.nature.com/articles/s41467-023-40936-0">Paper</a>
     </td>
   </tr>
   <tr>
     <td>Forest cover and geographical distance influence fine-scale genetic structure of leaf-toed geckos in the tropical dry forests of western Mexico</td> <br>
     <td> 
-      <a href="https://github.com/connor-french/gecko-project">Code</a> 
+      <a href="https://github.com/connor-french/gecko-project">Code</a> <br>
       <a href="https://academic.oup.com/biolinnean/article/137/4/686/6761439">Paper</a>
     </td>
   </tr>
