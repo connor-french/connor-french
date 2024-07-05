@@ -31,7 +31,7 @@ I’m passionate about data science, photography, music, and my dog Buckley!
     </td>
   </tr>
   <tr>
-    <td rowspan="3"><b>Academic projects</b></td>
+    <td rowspan="3"><b>Academic publications</b></td>
     <td>Elevational range impacts migration rates and the relationship between habitat suitability and deme size in Brazilian <i>Enyalius</i> lizards</td>
     <td> 
       <a href="https://github.com/connor-french/enyalius_project">Code</a> <br>
