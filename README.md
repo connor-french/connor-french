@@ -17,14 +17,14 @@ I’m passionate about data science, photography, music, and my dog Buckley!
   </tr>
   <tr> 
     <td rowspan="2"><b>Software</b></td>
-    <td>spaceprime</td>
+    <td><i>spaceprime</i>: a Python package that facilitates the creation and analysis of spatially gridded coalescent models in the <a href="https://tskit.dev/msprime/docs/stable/intro.html#">msprime</a> library</td>
     <td> 
       <a href="https://github.com/connor-french/spaceprime">Code</a> <br>
       <a href="https://connor-french.github.io/spaceprime/">Documentation</a>
     </td>
   </tr>
   <tr> 
-    <td>roleShiny</td>
+    <td><i>roleShiny</i>: a GUI app for education and research using the Rules of Life Engine model</td>
     <td> 
       <a href="https://github.com/role-model/roleShiny">Code</a> <br>
       <a href="https://role-model.github.io/">Website</a>
